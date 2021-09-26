@@ -36,8 +36,8 @@ if (!spaceId || !accessToken) {
 
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Contentful Starter",
-    description: "Official Contentful Gatsby Starter",
+    title: "Xin Su",
+    description: "Portfolio of Xin Su",
   },
   pathPrefix: "/gatsby-contentful-starter",
   plugins: [
